@@ -26,11 +26,11 @@ class MessagesScreen extends StatelessWidget {
             crossAxisAlignment: CrossAxisAlignment.start,
             children: [
               Text(
-                "Kristin Watson",
+                "John Doe",
                 style: TextStyle(fontSize: 16),
               ),
               Text(
-                "Active 3m ago",
+                "Just now",
                 style: TextStyle(fontSize: 12),
               )
             ],
